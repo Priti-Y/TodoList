@@ -1,2 +1,2 @@
 # TodoList
-ToDoList Based on Express NodeJS and Postgres
+ToDoList Based on Express Node JS and Postgres Database
